@@ -158,14 +158,18 @@ Pull request—先将别人的文件fork一下，再进行pull，发送添加文
 （3）多用于展示项目效果
 
 ## 八、网友评论：
+1 建议那些感觉老师讲的太浅的（慢的）自己买一本 《Pro Git》应该从入门到精通都可以用到了。初学者可以看 git - 简明指南，学了一点的可以去 try.github.com网站上看一下也可以学到很多东西
+
 --------------------- 
-建议那些感觉老师讲的太浅的（慢的）自己买一本 《Pro Git》应该从入门到精通都可以用到了。
+2 Git官方文档：https://git-scm.com/book/zh/v2，看完该视频建议看：https://www.bilibili.com/video/av8261658/?spm_id_from=333.788.b_636f6d6d656e74.144
+
+--------------------- 
+3 建议那些感觉老师讲的太浅的（慢的）自己买一本 《Pro Git》应该从入门到精通都可以用到了。
 初学者可以看 git - 简明指南
 学了一点的可以去 try.github.com网站上看一下也可以学到很多东西
+
 --------------------- 
-Git官方文档：https://git-scm.com/book/zh/v2
---------------------- 
-看完该视频建议看：https://www.bilibili.com/video/av8261658/?spm_id_from=333.788.b_636f6d6d656e74.144
---------------------- 
+4 看完该视频建议看：https://www.bilibili.com/video/av8261658/?spm_id_from=333.788.b_636f6d6d656e74.144
+
 --------------------- 
 原文：参考文章链接：https://blog.csdn.net/Fly_1213/article/details/89294702 
